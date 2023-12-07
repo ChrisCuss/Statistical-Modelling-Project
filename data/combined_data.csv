@@ -1,0 +1,46 @@
+name_x,address,category,latitude_x,longitude_x,rating,rounded_latitude,rounded_longitude,name_y,latitude_y,longitude_y,free_bikes
+Bagatelle,"4323 Rue Ontario E, Montreal, QC H1V 1K5, Canada","French, Breakfast & Brunch",45.5528219,-73.5396242,4.0,45.553,-73.54,Marché Maisonneuve,45.55321884238814,-73.53978216648102,11
+Les Gourmandises de Marie-Antoinette,"4317 Rue Ontario E, Montreal, QC H1V 1K5, Canada","Bakeries, Tea Rooms",45.5529099,-73.5397797,4.5,45.553,-73.54,Marché Maisonneuve,45.55321884238814,-73.53978216648102,11
+Pita Bar,"4315 Rue Ontario E, Montreal, QC H1V 1K5, Canada",Greek,45.552803,-73.539842,3.5,45.553,-73.54,Marché Maisonneuve,45.55321884238814,-73.53978216648102,11
+India Rosa,"1241 Avenue du Mont-Royal E, Montreal, QC H2J 1Y2, Canada","Indian, Cocktail Bars, Tapas Bars",45.529291,-73.578237,4.0,45.529,-73.578,du Mont-Royal / de Brébeuf,45.52933653055564,-73.57795268297195,6
+Le Rouge Gorge,"1234 Mont-royal E, Montreal, QC H2J 1Y2, Canada","Wine Bars, Tapas/Small Plates",45.5291117540899,-73.5779781639576,4.5,45.529,-73.578,du Mont-Royal / de Brébeuf,45.52933653055564,-73.57795268297195,6
+Pizzédélic,"1250 avenue du Mont-Royal Est, Montreal, QC H2J 1Y3, Canada","Pizza, Food Delivery Services",45.5293987,-73.5778183,3.5,45.529,-73.578,du Mont-Royal / de Brébeuf,45.52933653055564,-73.57795268297195,6
+Au Pain Perdu,"4489 Rue de la Roche, Montreal, QC H2J 3J1, Canada",Breakfast & Brunch,45.528691,-73.578071,3.5,45.529,-73.578,du Mont-Royal / de Brébeuf,45.52933653055564,-73.57795268297195,6
+Boîte Geisha Fusion Sushi,"1209 Mount Royal Avenue E, Montreal, QC H2J 1Y2, Canada","Japanese, Sushi Bars",45.528972044224545,-73.57848567435575,4.5,45.529,-73.578,du Mont-Royal / de Brébeuf,45.52933653055564,-73.57795268297195,6
+Ibéricos,"4475 Rue Saint-Denis, Montreal, QC H2J 2L2, Canada","Spanish, Tapas Bars",45.5239019496467,-73.5824299603701,4.5,45.524,-73.582,Métro Mont-Royal (Utilités publiques / Rivard),45.52423612093815,-73.58155220746994,2
+Café Gentile,"9299 Avenue du Parc, Montreal, QC H2N 2A2, Canada","Sandwiches, Breakfast & Brunch",45.5381974,-73.6545097,4.0,45.538,-73.655,Chabanel / du Parc,45.53830765459552,-73.6548838019371,12
+Ristorante Primo & Secondo,"7023 Saint-Dominique Rue, Montreal, QC H2S 3B6, Canada",Italian,45.53455,-73.61537,4.5,45.535,-73.615,Marché Jean-Talon (Casgrain / Shamrock),45.53519006163501,-73.61548215150833,22
+Bar A Tapas Tapeo,"511 Rue Villeray E, Montreal, QC H2R 1H5, Canada","Tapas Bars, Spanish",45.541609389972734,-73.62266780745756,4.5,45.542,-73.623,Lajeunesse / Villeray,45.54218173507584,-73.62268656492233,5
+Beautys Luncheonette,"93 Avenue du Mont-Royal O, Montreal, QC H2T 2S5, Canada","Breakfast & Brunch, Diners",45.51911,-73.58748,3.5,45.519,-73.587,du Mont-Royal / Clark,45.51941,-73.58685,8
+Sak's Sandwicherie,"7387 Boulevard Saint-Michel, Montreal, QC H2A 3A1, Canada","Sandwiches, Cambodian",45.560285,-73.601021,3.5,45.56,-73.601,CHSLD Joseph-François-Perrault (St-Michel / Everett),45.55969734528566,-73.60145956277847,10
+Champion,"3571 Rue Beaubien E, Montreal, QC H1X 1H1, Canada",Pizza,45.55791,-73.58412,3.0,45.558,-73.584,Collège de Rosemont (Beaubien / 15e avenue),45.55774990838239,-73.58380123972893,6
+La Tour de Montréal,"Rue Viau  3200, Parc Olympique de Montréal, Montreal, QC H1V 3J3, Canada","Landmarks & Historical Buildings, Observatories",45.55954571090903,-73.55213435453454,4.0,45.56,-73.552,La Tour de Montréal (Pierre-de-Coubertin / Bennett),45.55970526805903,-73.55155438184738,0
+L'Usine de Spaghetti,"273 Rue Saint Paul E, Montreal, QC H2Y 1H1, Canada",Italian,45.5081154,-73.5523441,4.0,45.508,-73.552,de la Commune / Place Jacques-Cartier,45.50761009451047,-73.55183601379395,21
+Toqué,"900 Place Jean-Paul-Riopelle, Montreal, QC H2Z 2B2, Canada",Canadian (New),45.5029475,-73.5612041,4.5,45.503,-73.561,St-Antoine / Jean-Paul Riopelle,45.502939709023714,-73.56064036488532,3
+Shawarmaz,"1206 Rue Peel, Montreal, QC H3B 2T6, Canada","Middle Eastern, Mediterranean",45.499508,-73.572079,4.0,45.5,-73.572,du Square Dorchester / Peel,45.49969963056761,-73.57193648815155,0
+McLean's Pub,"1210 Rue Peel, Montreal, QC H3B 2T6, Canada",Pubs,45.499552,-73.572148,4.0,45.5,-73.572,du Square Dorchester / Peel,45.49969963056761,-73.57193648815155,0
+La Petite Marche,"5035 Rue Saint-Denis, Montreal, QC H2J 2L9, Canada","Music Venues, Bistros",45.526767424287,-73.5887682718476,3.5,45.527,-73.589,Laurier / St-Denis,45.52714838624861,-73.58947947621346,1
+La Boîte Gourmande,"445 Avenue Laurier E, Montreal, QC H2J 1E5, Canada","Breakfast & Brunch, Desserts",45.52745,-73.58935,3.5,45.527,-73.589,Laurier / St-Denis,45.52714838624861,-73.58947947621346,1
+Sandwiches Cao Lanh,"2651 Rue Ontario E, Montreal, QC H2K 1X1, Canada","Sandwiches, Sushi Bars, Vietnamese",45.534242,-73.551867,4.0,45.534,-73.552,Métro Frontenac (Ontario / du Havre),45.533705987798946,-73.55217933654784,12
+Kien Giang Express,"2669 Rue Ontario E, Montreal, QC H2K 1X1, Canada",Sushi Bars,45.53449,-73.55194,5.0,45.534,-73.552,Métro Frontenac (Ontario / du Havre),45.533705987798946,-73.55217933654784,12
+Brasseur de Montréal,"1485 Rue Ottawa, Montreal, QC H3C 1S9, Canada","Gastropubs, Breweries",45.489948107069,-73.564016142903,3.5,45.49,-73.564,Ottawa / William,45.48972725318433,-73.56406286358833,4
+Industria Pizzeria + Bar,"100 Rue Peel, Montreal, QC H3C 0L8, Canada","Bars, Italian, Pizza",45.4929942,-73.5564327,3.5,45.493,-73.556,Smith / Peel,45.49276061084002,-73.55641052126883,12
+Pikolo Espresso Bar,"1635 Rue Clark, Montreal, QC H2X 2R4, Canada","Coffee & Tea, Breakfast & Brunch",45.510731,-73.56674989999999,4.5,45.511,-73.567,Clark / Ontario,45.51059890498207,-73.56692545115948,16
+Les Enfants Terribles,"1 Place Ville Marie, Montreal, QC H3B 4S6, Canada","Canadian (New), French, Breakfast & Brunch",45.501658,-73.568164,3.5,45.502,-73.568,Robert-Bourassa / René-Lévesque,45.502182909901194,-73.56825381517409,11
+Dairy Queen Store,"4545 Sainte-Catherine Rue E, Montreal, QC H1V 1Y6, Canada","Fast Food, Ice Cream & Frozen Yogurt, Burgers",45.553032,-73.532816,3.5,45.553,-73.533,Bennett / Ste-Catherine,45.55315915057821,-73.53263273835182,6
+Détour Bistro,"2480 Rue Beaubien Est, Montreal, QC H2G 1N4, Canada","French, Modern European",45.54854,-73.59155,4.5,45.549,-73.592,Parc Molson (d'Iberville / Beaubien),45.54902230455398,-73.59198164194822,5
+Pat'e Palo,"2534 Beaubien Street East, Montreal, QC H1Y 1G2, Canada","Peruvian, International",45.540899,-73.598482,4.0,45.541,-73.598,Garnier / Beaubien,45.54144823434163,-73.59839379787445,9
+Café Chiado 28,"1404 Rue Beaubien E, Montreal, QC H2G 1K9, Canada",Cafes,45.5410899,-73.59808,4.5,45.541,-73.598,Garnier / Beaubien,45.54144823434163,-73.59839379787445,9
+Bo'Dégât,"1392 Rue Beaubien E, Montreal, QC H2G 1K9, Canada","Spanish, Tapas Bars",45.54097,-73.59836,4.5,45.541,-73.598,Garnier / Beaubien,45.54144823434163,-73.59839379787445,9
+Café Lali,"1850 Rue Notre Dame O, Montreal, QC H3J 1M5, Canada",Cafes,45.487754,-73.5686699561112,4.5,45.488,-73.569,Notre-Dame  / St-Martin,45.48830194643546,-73.56871783733366,13
+La Chronique,"104 Avenue Laurier O, Montreal, QC H2T 2N7, Canada",Canadian (New),45.52154,-73.59374,4.5,45.522,-73.594,St-Urbain / Laurier,45.52164617544124,-73.59366774559021,0
+Bistro CÔ ÚT,"3807 Rue Saint-Andre, Montreal, QC H2L 3V9, Canada",Vietnamese,45.52189,-73.57017,4.5,45.522,-73.57,Roy / St-André,45.521564270906616,-73.57036739587784,3
+Bis,"1229 Rue de la Montagne, Montreal, QC H3G 1Z2, Canada",Italian,45.49779,-73.57424,4.0,45.498,-73.574,Ste-Catherine / Drummond,45.498488900657,-73.57436656951904,10
+L'Oeufrier,"1231 Rue de la Montagne, Montreal, QC H3G 1Z2, Canada",Breakfast & Brunch,45.49788,-73.574305549264,4.0,45.498,-73.574,Ste-Catherine / Drummond,45.498488900657,-73.57436656951904,10
+Henri - Brasserie Francaise,"1240 Phillips Square, Montreal, QC H3B 3H4, Canada","Brasseries, Lounges, Breakfast & Brunch",45.5035399789628,-73.5690115332576,4.0,45.504,-73.569,Ste-Catherine / Union,45.50373771539475,-73.56948494911194,13
+Frite Alors,"3497 Boulevard Saint-Laurent, Montreal, QC H2X 2T6, Canada","American, Belgian",45.51334,-73.57082,3.5,45.513,-73.571,Milton / St-Laurent,45.512903912221326,-73.57059180741999,5
+Bootlegger l'Authentique,"3481 Boulevard Saint-Laurent, 2 étage, Montreal, QC H2X 2T6, Canada","Cocktail Bars, Jazz & Blues, Whiskey Bars",45.51323,-73.57058,4.5,45.513,-73.571,Milton / St-Laurent,45.512903912221326,-73.57059180741999,5
+Shaker Cuisine and Mixologie,"3518 Boulevard St-Laurent, Montreal, QC H2X 2T6, Canada","Cocktail Bars, Burgers",45.51314,-73.57123,3.5,45.513,-73.571,Milton / St-Laurent,45.512903912221326,-73.57059180741999,5
+Sumi Dojo,"3479 Boulevard Saint-Laurent, Montreal, QC H2X 2T6, Canada",Japanese,45.5132217,-73.5707169,3.5,45.513,-73.571,Milton / St-Laurent,45.512903912221326,-73.57059180741999,5
+McKibbin's Irish Pub,"3515 Boulevard Saint-Laurent, Montreal, QC H2X 2T6, Canada",Irish Pub,45.51349,-73.57114,3.5,45.513,-73.571,Milton / St-Laurent,45.512903912221326,-73.57059180741999,5
+Singh's,"3712 Boulevard Saint-Laurent, Montreal, QC H2X 2V4, Canada",Indian,45.51456,-73.57461,4.0,45.515,-73.575,des Pins / St-Laurent,45.51522812881499,-73.5750961303711,15
