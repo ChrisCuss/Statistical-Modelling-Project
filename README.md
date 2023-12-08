@@ -50,7 +50,7 @@
    - Analyze which API provides better information for the selected area.
 
 6. **Data Merging and Visualization**
-   - Combine CityBikes data with Yelp and Foursquare data in Jupyter Notebook.
+   - Combine CityBikes data with Yelp or Foursquare data in Jupyter Notebook.
    - Utilize `matplotlib` and `seaborn` for data visualization to explore the combined dataset.
 
 7. **Database Creation with SQLite**
@@ -62,7 +62,6 @@
    - Use Python `statsmodels` in Jupyter Notebook to build a regression model.
    - Analyze the relationship between bike counts and POI characteristics.
    - Interpret the model results and provide insights.
-   - Conceptualize the transformation of the regression problem into a classification problem and outline potential approaches.
 
 
 ## Results
@@ -73,15 +72,15 @@
 
 When I worked on my statistical modeling project with Python, I faced a few challenges:
 
-1. Understanding API Data: Figuring out the CityBikes, Yelp, and Foursquare APIs was tricky. Their data structures were complex, making it hard to extract the info I needed.
-2. Data Quality Issues: Getting consistent and complete data from different APIs was a problem. There were format mismatches and some missing details, which made analysis tough.
-3. Merging Data: Combining data from CityBikes, Yelp, and Foursquare into one usable format was challenging. Aligning the different data fields and dealing with missing values took some effort.
-4. Modeling Limitations: Building the regression model was tough. The low R-Squared value indicated that the model wasn't great at predicting bike numbers based on location and nearby restaurant ratings.
+1. **Understanding API Data:** Figuring out the CityBikes, Yelp, and Foursquare APIs was tricky. Their data structures were complex, making it hard to extract the info I needed.
+2. **Data Quality Issues:** Getting consistent and complete data from different APIs was a problem. There were format mismatches and some missing details, which made analysis tough.
+3. **Merging Data:** Combining data from CityBikes, Yelp, and Foursquare into one usable format was challenging. Aligning the different data fields and dealing with missing values took some effort.
+4. **Modeling Limitations:** Building the regression model was tough. The low R-Squared value indicated that the model wasn't great at predicting bike numbers based on location and nearby restaurant ratings.
 
 ## Future Goals
 (what would you do if you had more time?)
-1. Get Better with APIs: I want to improve how I handle API data, especially the tricky parts.
-2. Work on Data Cleaning: I'll focus on cleaning and organizing data better before analyzing it.
-3. Learn More About Data Merging: I'm aiming to get better at combining data from different sources.
-4. Upgrade My Modeling Skills: I plan to learn more about making better predictive models.
-5. Boost Database Management Skills: I want to get better at managing databases to handle data more efficiently.
+1. **Get Better with APIs:** I want to improve how I handle API data, especially the tricky parts.
+2. **Work on Data Cleaning:** I'll focus on cleaning and organizing data better before analyzing it.
+3. **Learn More About Data Merging:** I'm aiming to get better at combining data from different sources.
+4. **Upgrade My Modeling Skills:** I plan to learn more about making better predictive models.
+5. **Boost Database Management Skills:** I want to get better at managing databases to handle data more efficiently.
